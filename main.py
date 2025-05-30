@@ -1,3 +1,11 @@
+# ----------------------------------------
+# Author: j-algadipe@dev
+# Project: AutoRacer
+# Description: A simple car racing game made with Python and Pygame.
+# Created: 2025-05-29
+# ----------------------------------------
+
+
 import asyncio
 import pygame as pg
 import random
